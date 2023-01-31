@@ -6,4 +6,4 @@
     <dd>Youtubeで企画をしたりみんなでテストプレイをすること</dd>
     <dd>みんなを笑顔にすること</dd>
 </dl>
-![Counter](https://profile-counter.glitch.me/Neos21/count.svg)
+![Counter](https://profile-counter.glitch.me/minehal/count.svg)
