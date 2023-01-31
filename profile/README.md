@@ -4,5 +4,10 @@
     <dt>目標</dt>
     <dd>minecraftのmodやpluginを作ること</dd>
     <dd>Youtubeで企画をしたりみんなでテストプレイをすること</dd>
-    <dd>みんなを笑顔にすること!!</dd>
+    <dd><strong>みんなを笑顔にすること!!</strong></dd>
 </dl>
+
+[ownerのtwitter][id]←
+
+
+[ID]:https://twitter.com/lahh_hal
